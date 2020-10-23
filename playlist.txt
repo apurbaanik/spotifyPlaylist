@@ -1,0 +1,19 @@
+Playing -> Song: "10,000 Hours (with Justin Bieber)" by "Dan + Shay"
+Playing -> Song: "24 (feat. Lil Baby)" by "Money Man"
+Playing -> Song: "44 BullDog" by "Pop Smoke"
+Playing -> Song: "7 rings" by "Ariana Grande"
+Playing -> Song: "7 Summers" by "Morgan Wallen"
+Playing -> Song: "Adore You" by "Harry Styles"
+Playing -> Song: "After Party" by "Don Toliver"
+
+Recently Played - 
+Song: "After Party" by "Don Toliver"
+
+History - 
+Song: "After Party" by "Don Toliver"
+Song: "Adore You" by "Harry Styles"
+Song: "7 Summers" by "Morgan Wallen"
+Song: "7 rings" by "Ariana Grande"
+Song: "44 BullDog" by "Pop Smoke"
+Song: "24 (feat. Lil Baby)" by "Money Man"
+Song: "10,000 Hours (with Justin Bieber)" by "Dan + Shay"
